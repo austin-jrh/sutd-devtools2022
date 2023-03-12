@@ -2,7 +2,7 @@
 
 > **Note**
 >
-> New repository that is maintained can be found [here](https://github.com/austin-jrh/typingtest)
+> New repository that is maintained can be found [here](https://github.com/austin-jrh/typingtest).
 > 
 > This is repo is kept as a endpoint for my SUTD course.
 
